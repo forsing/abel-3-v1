@@ -226,7 +226,7 @@ g_hat:            5
 g_match:          5
 score_match:      66.604674039542
 g hist dup:       39
-next_loto:      [6, 7, 14, 20, 22, 29, 30]
+next_loto:      [6, x, 14, y, 22, z, 30]
 
 === loto_plus ===
 csv:              loto7_4654_k58_loto_plus_1705.csv
@@ -238,10 +238,10 @@ g_hat:            22
 g_match:          22
 score_match:      69.072150394053
 g hist dup:       39
-next_loto_plus:      [1, 3, 8, 11, 18, 31, 34]
+next_loto_plus:      [1, x, 8, y, 18, z, 34]
 
-next_loto:       [6, 7, 14, 20, 22, 29, 30]
-next_loto_plus:  [1, 3, 8, 11, 18, 31, 34]
+next_loto:       [6, x, 14, y, 22, z, 30]
+next_loto_plus:  [1, x, 8, y, 18, z, 34]
 """
 
 
